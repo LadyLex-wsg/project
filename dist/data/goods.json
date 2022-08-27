@@ -1,0 +1,162 @@
+[
+    {
+        "proid": "1",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/6c3f598d9b427924ca88af5f32804590.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "tle": "30天价保",
+        "fr": "小米自营",
+        "proName": "米家循环风空气净化器",
+        "price": 2199
+    },
+    {
+        "proid": "2",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/575ead1cf3ada059f95bbf50f365c27b.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "tle": "7天价保",
+        "fr": "小米自营",
+        "proName": "米家桌面空气净化器",
+        "price": 399
+    },
+    {
+        "proid": "3",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/32783886eb54be88607da0b49098a82f.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "tle": "30天价保",
+        "fr": "小米自营",
+        "proName": "米家空气净化器 F1",
+        "price": 1199
+    },
+    {
+        "proid": "4",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/2ed81510aeb2d086504801024b747232.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "tle": "30天价保",
+        "fr": "小米自营",
+        "proName": "米家空气净化器 4",
+        "price": 899
+    },
+    {
+        "proid": "5",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/8c5fb51beb08c43892768bedf2518398.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "gif": "https://img.youpin.mi-img.com/new_gms/d9ee10ae_3056_4b33_8599_e000304c2c2c.gif",
+        "tle": "30天价保",
+        "fr": "小米自营",
+        "proName": "米家空气净化器4 Lite",
+        "price": 699
+    },
+    {
+        "proid": "6",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/c8372f743071f3509bff931ab3f2334c.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "tle": "30天价保",
+        "fr": "小米自营",
+        "proName": "米家空气净化器4 Pro",
+        "price": 1299
+    },
+    {
+        "proid": "7",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/642211cf01550a86541a07596637b0f5.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "gif": "https://img.youpin.mi-img.com/new_gms/d9ee10ae_3056_4b33_8599_e000304c2c2c.gif",
+        "tle": "30天价保",
+        "fr": "小米自营",
+        "proName": "米家空气净化器X",
+        "price": 1799
+    },
+    {
+        "proid": "8",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/2af1e64777aeb753110b0b090cb945ca.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "gif": "https://img.youpin.mi-img.com/new_gms/d9ee10ae_3056_4b33_8599_e000304c2c2c.gif",
+        "tle": "30天价保",
+        "fr": "小米自营",
+        "proName": "米家空气净化器MAX 增强版 高品...",
+        "price": 1799
+    },
+    {
+        "proid": "9",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/13199bd41d7cc40de48efd85b253d3f8.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "tle": "30天价保",
+        "fr": "小米自营",
+        "proName": "米家空气净化器ProH",
+        "price": 1699
+    },
+    {
+        "proid": "10",
+        "proImg": "https://img.youpin.mi-img.com/800_pic/f942522f8d28292ae2a9caf05edcf6f0.png@base@tag=imgScale&F=webp",
+        "gif": "https://img.youpin.mi-img.com/new_gms/d9ee10ae_3056_4b33_8599_e000304c2c2c.gif",
+        "tle": "30天价保",
+        "proName": "贝昂除甲醛专业版空气净化器",
+        "price": 3999
+    },
+    {
+        "proid": "11",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/ff827e17eae3f3d115ab59763c46a4ef.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "me": "https://img.youpin.mi-img.com/tag/4167059a2a83e6dece26ebc1300abaf8.png?w=192&h=42",
+        "tle": "30天价保",
+        "proName": "贝昂MINI无耗材空气净化器",
+        "price": 1299
+    },
+    {
+        "proid": "12",
+        "proImg": "https://img.youpin.mi-img.com/shop-fe/e23af596_57c7_43ef_bae2_4fe0ef657454.png@base@tag=imgScale&F=webp",
+        "me": "https://img.youpin.mi-img.com/tag/4167059a2a83e6dece26ebc1300abaf8.png?w=192&h=42",
+        "ske" : "有品秒杀",
+        "tle": "30天价保",
+        "proName": "专业级除甲醛丨Jya峡湾 Atom除...",
+        "price": 3599
+    },
+    {
+        "proid": "13",
+        "proImg": "https://img.youpin.mi-img.com/800_pic/3b01553cc27e0b27e2f658f280d5e74a.png@base@tag=imgScale&F=webp",
+        "tle": "30天价保",
+        "proName": "贝昂杀菌消毒空气净化器X3",
+        "price": 1499
+    },
+    {
+        "proid": "14",
+        "proImg": "https://img.youpin.mi-img.com/800_pic/75e2ab50134ea049a6705a973a36c81f.png@base@tag=imgScale&F=webp",
+        "tle": "7天价保",
+        "fr": "小米自营",
+        "proName": "米家新风机 中效滤芯",
+        "price": 80.1
+    },
+    {
+        "proid": "15",
+        "proImg": "https://img.youpin.mi-img.com/shop-fe/00612432_da85_4b10_91a3_1654b7a5ef69.png@base@tag=imgScale&F=webp",
+        "me": "https://img.youpin.mi-img.com/tag/4167059a2a83e6dece26ebc1300abaf8.png?w=192&h=42",
+        "tle": "30天价保",
+        "proName": "等离子消杀丨Jya峡湾Anti消毒...",
+        "price": 3299
+    },
+    {
+        "proid": "16",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/96555d81a5ad98056758d75b8ffe125c.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "tle": "30天价保",
+        "proName": "科沃斯沁宝Ava移动空气净化器机...",
+        "price": 4599
+    },
+    {
+        "proid": "17",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/834fb684a6af672b2b013e677135b12f.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "sal" : "售后免邮",
+        "dly" : "有品配送",
+        "proName": "豹米负离子空气净化器分解甲醛...",
+        "price": 899
+    },
+    {
+        "proid": "18",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/5ae85825f0c2db3a609b7ae9fa2e9d35.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "proName": "美倾负离子除菌空气净化器MIX",
+        "price": 899
+    },
+    {
+        "proid": "19",
+        "proImg": "https://img.youpin.mi-img.com/shop-fe/ff86fea6_c589_4611_9110_61595057dba3.png@base@tag=imgScale&F=webp",
+        "proName": "任天堂Switch掌上游戏机新款OL...",
+        "new" : "新品",
+        "fr": "小米自营",
+        "price": 2299
+    },
+    {
+        "proid": "20",
+        "proImg": "https://img.youpin.mi-img.com/shopmain/58d4545902457bbe5b704025ff7868bf.png@base@tag=imgScale&F=webp&h=800&w=800?w=800&h=800",
+        "me": "https://img.youpin.mi-img.com/tag/4167059a2a83e6dece26ebc1300abaf8.png?w=192&h=42",
+        "sal" : "售后免邮",
+        "proName": "【姐姐同款】清蜓静音无耗材空...",
+        "price": 2699
+    }
+]

@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <link rel="stylesheet" href="../css/detailGood.min.css">
+    <link rel="shortcut icon" href="https://m.xiaomiyoupin.com/favicon.ico">
+    <title>商品详情</title>
+</head>
+
+<body>
+
+
+        <div id="Navigation"></div>
+        <div id="Search"></div>
+        <div id="Sidelist"></div>
+         <ul class="jsonp"></ul>
+    <!-- 商品详细信息 -->
+    <section id="detail-infor">
+        <div class="detail-infor-center">
+            <div class="goods-detail-infor">
+                <div class="left">
+                    <ul class="big-pic" id="bigBox">
+                        <li style="z-index: 1;">
+                            <img src="../img/detailGood-small-pic1.png" alt="">
+                        </li>
+                        <li>
+                            <img src="../img/detailGood-small-pic2.png" alt="">
+                        </li>
+                        <li>
+                            <img src="../img/detailGood_small-pic3.png" alt="">
+                        </li>
+                        <li>
+                            <img src="../img/detailGood-small-pic4.png" alt="">
+                        </li>
+                        
+                    </ul>
+                    <ul class="small-pic" id="smallBox">
+                        <div class="btn-l" id="btnL"><img src="../img/detail-goods-btnr.png" alt=""></div>
+                        <li><img src="../img/detailGood-small-pic1.png" alt=""></li>
+                        <li><img src="../img/detailGood-small-pic2.png" alt=""></li>
+                        <li><img src="../img/detailGood_small-pic3.png" alt=""></li>
+                        <li><img src="../img/detailGood-small-pic4.png" alt=""></li>
+                        <div class="btn-r" id="btnR"><img src="../img/detail-goods-btnl.png" alt=""></div>
+                    </ul>
+                </div>
+
+                <div class="right">
+                    <!-- 商品名称 -->
+                    <div class="name">
+                        <div class="tag-header">小米自营</div>
+                        <div class="goods-name">米家分区洗烘一体机 15kg</div>
+                    </div>
+                    <!-- 商品广告介绍 -->
+                    <div class="adv-infor">全能技术优势，上下双筒一体成型，三路只能投放，双DD澎湃动力</div>
+                    <!-- 商品抢购页面跳转 -->
+                    <div class="promotion">
+                        <div class="promotion-title">更多</div>
+                        <div class="promotion-content">
+                            【米家冰箱新品536L到手价2199！】双变频一级能效，36分贝低噪运行！
+                            <a href="https://www.xiaomiyoupin.com/detail?gid=155491">即刻点击抢购，绝对不 容错过>>></a>
+                        </div>
+                    </div>
+                    <!-- 商品信息卡片 -->
+                    <div class="card">
+                        <!-- 商品售价 -->
+                        <div class="price">
+                            <div class="price-name">售价</div>
+                            <div class="price-value"><span>￥</span><span>5999</span></div>
+                        </div>
+                        <!-- 商品相关服务行 -->
+                        <div class="service">
+                            <!-- 相关服务标题 -->
+                            <div class="service-title">服务<img src="../img/detailGood-warn.png" alt=""></div>
+                            <!-- 相关服务内容 -->
+                            <div class="service-content">
+
+                                <div class="item">
+                                    <img src="../img/detailGood-choose.png" alt="">
+                                    满69包邮
+                                </div>
+                                <div class="item">
+                                    <img src="../img/detailGood-choose.png" alt="">
+                                    小米自营
+                                </div>
+                                <div class="item">
+                                    <img src="../img/detailGood-choose.png" alt="">
+                                    7天无理由退货
+                                </div>
+
+                            </div>
+                        </div>
+                        <!-- 优惠券行 -->
+                        <div class="activity" id="activity">
+                            <div class="activity-top">
+                                <div class="quan">惠</div>
+                                <div class="des">
+                                    <div class="des-left">
+                                        <div class="des-head">券</div>
+                                        <div class="des-content">当前商品领券立减1元</div>
+                                    </div>
+
+                                    <div class="des-receive">
+                                        <div class="rece-pos">>>></div>
+                                        <div class="rece-num"><a href="javascript:;">￥1</a></div>
+                                        <div class="rece-content"><a href="javascript:;">领取</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="activity-bottom">
+                                <div class="item">
+                                    <div class="des">减</div>
+                                    <div class="content">领券下单时自动抵扣</div>
+                                </div>
+                                <div class="item">
+                                    <div class="des">减</div>
+                                    <div class="content">超多优惠券等你来领</div>
+                                </div>
+                                <div class="item">
+                                    <div class="des">减</div>
+                                    <div class="content">买的越多省的越多！</div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- 地址行 -->
+                    <div class="address-line">
+                        <div class="addr-name">配送区域</div>
+                        <div class="detail-addr">北京 北京市 海淀区</div>
+                        <div class="goods">有货</div>
+                        <div class="modify">修改</div>
+                    </div>
+                    <!-- 版本行 -->
+                    <div class="version">
+                        <div class="v-title">版本</div>
+                        <div class="v-box">8+128</div>
+                        <div class="v-box">8+256</div>
+                        <div class="v-box">12+256</div>
+                        <div class="v-box">12+512</div>
+                    </div>
+                    <!-- 颜色 -->
+                    <div class="color">
+                        <div class="c-title">颜色</div>
+                        <div class="c-box">雅黑</div>
+                        <div class="c-box">浅蓝</div>
+                        <div class="c-box">晨曦</div>
+                    </div>
+                    <div class="number">
+                        <div class="n-title">数量</div>
+                        <div class="n-box-l n-box-ll">-</div>
+                        <input type="text" class="x" value="1" name="" id="goodsNum">
+                        <div class="n-box-l n-box-r">+</div>
+                    </div>
+                    
+                    <!-- <div class="tips-line"></div> -->
+                    <div class="button-line">
+                        <input type="button" name="" class="add-to-cart" value="加入购物车" id="addToCart">
+                        <input type="button" class="buy add-to-cart" name="" id="buy" value="立即购买">
+                        <div class="star"><img src="../img/detailGood-collection.png" alt="">
+                            <div class="con1">收藏</div>
+                        </div>
+                        <div class="serv star"><img src="../img/detailGood-small-serv.png" alt="">
+                            <div class="con2">客服</div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="goods-detail-content">
+        <div class="content-center">
+            <div class="center-left">
+                <ul class="title" id="under-title">
+                    <li>商品详情</li>
+                    <li style="border-right: 0;">参数说明</li>
+                </ul>
+                <div class="content" id="under-content1">
+                    <img src="../img/goods-detail-images/1.jpeg" alt="">
+                    <img src="../img/goods-detail-images/2.jpeg" alt="">
+                    <img src="../img/goods-detail-images/3.jpeg" alt="">
+                    <img src="../img/goods-detail-images/4.jpeg" alt="">
+                    <img src="../img/goods-detail-images/5.jpeg" alt="">
+                    <img src="../img/goods-detail-images/6.jpeg" alt="">
+                    <img src="../img/goods-detail-images/7.jpeg" alt="">
+                    <img src="../img/goods-detail-images/8.jpeg" alt="">
+                    <img src="../img/goods-detail-images/9.jpeg" alt="">
+                    <img src="../img/goods-detail-images/10.jpeg" alt="">
+                    <img src="../img/goods-detail-images/11.jpeg" alt="">
+                    <img src="../img/goods-detail-images/12.jpeg" alt="">
+                    <img src="../img/goods-detail-images/13.jpeg" alt="">
+                    <img src="../img/goods-detail-images/14.jpeg" alt="">
+                    <img src="../img/goods-detail-images/15.jpeg" alt="">
+                    <img src="../img/goods-detail-images/16.jpeg" alt="">
+                    <img src="../img/goods-detail-images/17.jpeg" alt="">
+                    <img src="../img/goods-detail-images/18.jpeg" alt="">
+                    <img src="../img/goods-detail-images/19.jpeg" alt="">
+                    <img src="../img/goods-detail-images/20.jpeg" alt="">
+                    <img src="../img/goods-detail-images/21.jpeg" alt="">
+                    <img src="../img/goods-detail-images/22.jpeg" alt="">
+                    <img src="../img/goods-detail-images/23.jpeg" alt="">
+                    <img src="../img/goods-detail-images/24.jpeg" alt="">
+                    <img src="../img/goods-detail-images/25.jpeg" alt="">
+                    <img src="../img/goods-detail-images/26.jpeg" alt="">
+                    <img src="../img/goods-detail-images/27.jpeg" alt="">
+                    <img src="../img/goods-detail-images/28.jpeg" alt="">
+                    <img src="../img/goods-detail-images/29.jpeg" alt="">
+                    <img src="../img/goods-detail-images/30.jpeg" alt="">
+                    <img src="../img/goods-detail-images/31.jpeg" alt="">
+                    <img src="../img/goods-detail-images/32.jpeg" alt="">
+                    <img src="../img/goods-detail-images/33.jpeg" alt="">
+                    <img src="../img/goods-detail-images/34.jpeg" alt="">
+                    <img src="../img/goods-detail-images/35.jpeg" alt="">
+                </div>
+                
+                <div class="content" id="under-content2">
+                    <img src="../img/img_goods/1.jpeg" alt="">
+                    <img src="../img/img_goods/2.jpeg" alt="">
+                    <img src="../img/img_goods/3.jpeg" alt="">
+                    <img src="../img/img_goods/4.jpeg" alt="">
+                    <img src="../img/img_goods/5.jpeg" alt="">
+                    <img src="../img/img_goods/6.jpeg" alt="">
+                    <img src="../img/img_goods/7.jpeg" alt="">
+                    <img src="../img/img_goods/8.jpeg" alt="">
+                    <img src="../img/img_goods/9.jpeg" alt="">
+                    <img src="../img/img_goods/10.jpeg" alt="">
+                    <img src="../img/img_goods/11.jpeg" alt="">
+                    <img src="../img/img_goods/12.jpeg" alt="">
+                    <img src="../img/img_goods/13.jpeg" alt="">
+                    <img src="../img/img_goods/14.jpeg" alt="">
+                    <img src="../img/img_goods/15.jpeg" alt="">
+                    <img src="../img/img_goods/16.jpeg" alt="">
+                    <img src="../img/img_goods/17.jpeg" alt="">
+                </div>
+            </div>
+            <div class="center-right">
+                <div class="title">
+                    <div class="title-inner">
+                        <img src="../img/detailGood-mi.png" alt="">
+                        <div class="title-con">
+                            <div class="one">
+                                <div class="xiaomi">小米</div>
+                                <div class="ziying">自营</div>
+                            </div>
+                            <p class="intro">让每个人都能享受到科技的乐趣</p>
+                        </div>
+                        <div class="enter"><a href="#">进入</a></div>
+                    </div>
+                </div>
+                <div class="content">
+                    <ul class="item">
+                        <li>
+                            <div class="top">
+                                <img src="../img/other-goods/foryou1.jpg" alt="">
+                                <div class="sub"> 无耗材 高效除甲醛</div>
+                            </div>
+                            <div class="list">
+                                <img src="../img/other-goods/must.gif" alt="">
+                                <img src="../img/other-goods/30day.png" alt="">
+                            </div>
+                            <p>10倍除甲醛净化器</p>
+                            <div class="money">￥ <span>3999</span></div>
+                        </li>
+                        <li>
+                            <div class="top">
+                                <img src="../img/other-goods/foryou2.jpg" alt="">
+                                <div class="sub">按摩护颈透气舒压乳胶枕</div>
+                            </div>
+                            <div class="list">
+                                <img src="../img/other-goods/kill_03.jpg" alt="">
+                            </div>
+                            <p>10倍除甲醛净化器</p>
+                            <div class="money">￥ <span>299</span></div>
+                        </li>
+                        <li>
+                            <div class="top">
+                                <img src="../img/other-goods/foryou3.jpg" alt="">
+                                <div class="sub">野马3C认证儿童头盔</div>
+                            </div>
+                            <div class="list">
+                                <img src="../img/other-goods/price.png" alt="">
+                                <img src="../img/other-goods/seven.png" alt="">
+                            </div>
+                            <p>野马238S儿童头盔</p>
+                            <div class="money">￥ <span>599</span></div>
+                        </li>
+                        <li>
+                            <div class="top">
+                                <img src="../img/other-goods/foryou4.jpg" alt="">
+                                <div class="sub">好太太智能电动升降晾衣架</div>
+                            </div>
+                            <div class="list">
+                                <div class="hot">HOT</div>
+                                <img src="../img/other-goods/price.png" alt="">
+                                <img src="../img/other-goods/15day.png" alt="">
+                            </div>
+                            <p>电动升降晾衣架</p>
+                            <div class="money">￥ <span>1099</span></div>
+                        </li>
+                        <li>
+                            <div class="top">
+                                <img src="../img/other-goods/foryou5.jpg" alt="">
+                                <div class="sub">贴合面部轮廓，不留死角</div>
+                            </div>
+                            <div class="list">
+                                <img src="../img/other-goods/must.gif" alt="">
+                                <img src="../img/other-goods/seven.png" alt="">
+                                <div class="hot">米家自营</div>
+                            </div>
+                            <p>米家剃须刀S500</p>
+                            <div class="money">￥ <span>179</span></div>
+                        </li>
+                        <li>
+                            <div class="top">
+                                <img src="../img/other-goods/foryou6.jpg" alt="">
+                                <div class="sub">短绒可水洗客厅地毯</div>
+                            </div>
+                            <div class="list">
+                                <img src="../img/other-goods/price.png" alt="">
+                                <img src="../img/other-goods/after.png" alt="">
+                                <img src="../img/other-goods/taste.png" alt="">
+                            </div>
+                            <p>可水洗客厅地毯</p>
+                            <div class="money">￥ <span>499</span></div>
+                        </li>
+                        <li>
+                            <div class="top">
+                                <img src="../img/other-goods/foryou7.jpg" alt="">
+                                <div class="sub">阅读电脑支架办公车载学习</div>
+                            </div>
+                            <div class="list">
+                                <img src="../img/other-goods/15day.png" alt="">
+                            </div>
+                            <p>多功能笔记本支架</p>
+                            <div class="money">￥ <span>88</span></div>
+                        </li>
+                        <li>
+                            <div class="top">
+                                <img src="../img/other-goods/foryou8.jpg" alt="">
+                                <div class="sub">多功能，轻便收纳，免装即用</div>
+                            </div>
+                            <div class="list">
+                                <div class="hot">HOT</div>
+                                <img src="../img/other-goods/price.png" alt="">
+                                <img src="../img/other-goods/15day.png" alt="">
+                            </div>
+                            <p>好太太落地晾衣架</p>
+                            <div class="money">￥ <span>118</span>起</div>
+                        </li>
+                        <li>
+                            <div class="top">
+                                <img src="../img/other-goods/foryou9.jpg" alt="">
+                                <div class="sub">安全的重量，可以很轻</div>
+                            </div>
+                            <div class="list">
+                                <img src="../img/other-goods/price.png" alt="">
+                                <img src="../img/other-goods/30day.png" alt="">
+                            </div>
+                            <p>牛小哥头盔</p>
+                            <div class="money">￥ <span>99</span>起</div>
+                        </li>
+                        <li>
+                            <div class="top">
+                                <img src="../img/other-goods/foryou10.jpg" alt="">
+                                <div class="sub">手撕面包1kg耐思 奶香味浓</div>
+                            </div>
+                            <div class="list">
+
+                            </div>
+                            <p>手撕面包1000g</p>
+                            <div class="money">￥ <span>22.9</span>起</div>
+                        </li>
+                        <li>
+                            <div class="top">
+                                <img src="../img/other-goods/foryou11.jpg" alt="">
+                                <div class="sub">进口天然红木，无油无漆无蜡</div>
+                            </div>
+                            <div class="list">
+                                <img src="../img/other-goods/must.gif" alt="">
+                                <img src="../img/other-goods/price.png" alt="">
+                                <img src="../img/other-goods/15day.png" alt="">
+                            </div>
+                            <p>天然实木筷</p>
+                            <div class="money">￥ <span>22.9</span>起</div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+<script src="../js/jquery-1.12.4.min.js"></script>
+<script src="../lib/jquery.cookie.js"></script>
+<script src="../lib/sport.js"></script>
+<script src="../js/detailGood.min.js"></script>
+<script src="../js/public.js"></script>
+
+</html>
